@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi
+=======
+welcome to edureka
+>>>>>>> e4e8db8ad72cfdefbfe140f71d5caeefe4266acd
